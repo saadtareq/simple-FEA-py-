@@ -312,7 +312,7 @@ if __name__ == "__main__":
     
 ```
 **Frame with hinged node problem**
-![image](https://github.com/saadtareq/simple-FEA-py/blob/master/examples/problems/frame%20with%20hinged%20node/creenshot.png)
+![image](https://github.com/saadtareq/simple-FEA-py-/blob/master/examples/problems/frame%20with%20hinged%20node/creenshot.png)
 ```python
 # -*- coding: utf-8 -*-
 # ------------------------------------
@@ -415,7 +415,7 @@ if __name__ == "__main__":
 ```
 
 **Embedded wall problem**
-![image](https://github.com/saadtareq/simple-FEA-py/blob/master/examples/problems/embedded%20wall/screenshot.png)
+![image](https://github.com/saadtareq/simple-FEA-py-/blob/master/examples/problems/embedded%20wall/screenshot.png)
 ```python
 # -*- coding: utf-8 -*-
 # ------------------------------------
@@ -523,7 +523,7 @@ if __name__ == "__main__":
 
 ```
 **Fuild flow problem**
-![image]( https://github.com/saadtareq/simple-FEA-py/blob/master/examples/problems/fluid%20flow/screenshot.png)
+![image](https://github.com/saadtareq/simple-FEA-py-/blob/master/examples/problems/fluid%20flow/screenshot.png)
 ```python
 # -*- coding: utf-8 -*-
 # ------------------------------------
