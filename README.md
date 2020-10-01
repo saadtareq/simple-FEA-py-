@@ -92,7 +92,7 @@ if __name__ == "__main__":
 
 ```
 **A Beam3d problem**
-![image](https://github.com/saadtareq/simple-FEA-py/blob/master/examples/elements-introduction/beam3/screenshot.png)
+![image](https://github.com/saadtareq/simple-FEA-py-/blob/master/examples/elements-introduction/beam3/screenshot.png)
 ```python
 # -*- coding: utf-8 -*-
 # ------------------------------------
@@ -222,7 +222,7 @@ if __name__ == "__main__":
     plt.show()
 ```
 **A Truss promblem**
-![image](https://github.com/saadtareq/simple-FEA-py/blob/master/examples/problems/truss/screenshot.png)
+![image](https://github.com/saadtareq/simple-FEA-py-/blob/master/examples/problems/truss/screenshot.png)
 ```python
 # -*- coding: utf-8 -*-
 # ------------------------------------
