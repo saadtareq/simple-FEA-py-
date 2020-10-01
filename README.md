@@ -47,7 +47,7 @@ $python setup.py install
 ## Examples
 
 **A Beam Problem**
-![image](https://github.com/saadtareq/simple-FEA-py/blob/master/examples/elements-introduction/beam1/screenshot.png)
+![image](https://github.com/saadtareq/simple-FEA-py-/blob/master/examples/elements-introduction/beam1/screenshot.png)
 ```python
 # -*- coding: utf-8 -*-
 # ------------------------------------
